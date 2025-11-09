@@ -169,6 +169,4 @@ SQLite	Local database for authentication and history.
 AndroidX	UI and lifecycle management.
 
 
-Project Images
-
 

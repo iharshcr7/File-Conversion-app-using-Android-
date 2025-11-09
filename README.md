@@ -169,4 +169,10 @@ SQLite	Local database for authentication and history.
 AndroidX	UI and lifecycle management.
 
 
+![IMG-20251109-WA0011](https://github.com/user-attachments/assets/c1d0b11b-ffae-4858-a677-40cda75ca536)
+![IMG-20251109-WA0010](https://github.com/user-attachments/assets/cde4ad1f-d605-467e-8793-dd59d60bd6a7)
+![IMG-20251109-WA0009](https://github.com/user-attachments/assets/6c5db01c-961f-4eb5-b8df-a9759d88f389)
+![IMG-20251109-WA0008](https://github.com/user-attachments/assets/e67dd593-eb75-4aa8-996b-fb8b0873bc03)
+![IMG-20251109-WA0007](https://github.com/user-attachments/assets/dd574e8b-1f1c-4261-b04f-414130c58570)
+![IMG-20251109-WA0006](https://github.com/user-attachments/assets/333cb778-c6fb-4548-a343-9a34d2560c93)
 
